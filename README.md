@@ -1,2 +1,2 @@
-# FIU-Projects
-Coding Projects While at FIU
+# Restaurant Reservation System
+Restaurant reservation system I made during Java 2 at FIU.
